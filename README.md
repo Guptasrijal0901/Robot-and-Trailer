@@ -164,8 +164,8 @@ python robot_trailer_simulation.py
 **Srijal Gupta**  
 Final-Year B.Tech (Electronics & Communication)  
 Madan Mohan Malaviya University of Technology, Gorakhpur  
-📧 [srijalgupta360@gmail.com]  
-🔗 [Guptasrijal0901]
+srijalgupta360@gmail.com  
+Guptasrijal0901
 
 
 
